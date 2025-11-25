@@ -1,12 +1,12 @@
 /* --------- VARIABLES DE COLOR --------- */
 :root {
-  --azul-oscuro: #3c3c3c;
+  --azul-oscuro: #967a7a;
   --azul-medio: #3a3a3a;
   --azul-claro: #00000050;
   --azul-claro-2: #000000;
   --texto-principal: #ffffff;
-  --texto-suave: #ffffff;
-  --blanco: #536331;
+  --texto-suave: #000000;
+  --blanco: #ffffff;
 }
 
 /* --------- ESTILOS GENERALES --------- */
