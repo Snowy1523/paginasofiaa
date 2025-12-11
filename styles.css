@@ -1,9 +1,9 @@
 /* --------- VARIABLES DE COLOR --------- */
 :root {
-  --azul-oscuro: #0012b0;
+  --azul-oscuro: #000000;
   --azul-medio: #000000b9;
-  --azul-claro: #ffffff;
-  --azul-claro-2: #000329;
+  --azul-claro: #696969;
+  --azul-claro-2: #606060;
   --texto-principal: #ffffff;
   --texto-suave: #000000;
   --blanco: #ffffff8d;
@@ -163,7 +163,7 @@ body {
   padding: 0.5rem 1.2rem;
   text-decoration: none;
   border-radius: 999px;
-  background: var(--azul-oscuro);
+  background: var(--azul-oscuroa);
   color: var(--texto-principal);
   font-size: 0.9rem;
   font-weight: 500;
